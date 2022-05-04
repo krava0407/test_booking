@@ -10,6 +10,5 @@ class TestElements:
         # test.log_in()
         title_find = test.test_check_museums()
         text_web_element_title = test.find_actual_title()
-        print(f'Actual title: {text_web_element_title}, Find title: {title_find}')
         assert text_web_element_title == title_find
 
