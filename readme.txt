@@ -1,3 +1,4 @@
+Test task.
 Technical requirements:
  Create positive and negative auto-test for login into booking.com using:
 python (version 3.8+), pytest.
